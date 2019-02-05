@@ -1,3 +1,3 @@
-# Repository for links to papers and blog posts on science communication 
+# Science Communication
 
-Purpose: Single location to refer colleagues and audience for more reading, tips, and tricks on science communication
+Easy access to articles and resources for science communication 
