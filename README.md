@@ -1,7 +1,3 @@
-# hello-world
-first repository
+# Repository for links to papers and blog posts on science communication 
 
-Hi Humans!
-
-Hubot.
-Moon tacos.
+Purpose: Single location to refer colleagues and audience for more reading, tips, and tricks on science communication
